@@ -1,0 +1,11 @@
+Reviewer: Lue Cai (u6748572)
+Component: < I  reviewed Task2 and Task7  >
+Author: Piyaphong Inthaboualy (u5671161)
+
+Review Comments:
+
+1. RailroadInk.java: 34-61 it is a good way using if and else if to check each char if satisfy with the rule.
+2. RailroadInk.java: 34-61 The function shows a logical thinking but can reduce some multiple occurrences
+3. RailroadInk.java: 34-61 it can be more brief and readable if using switch.
+4. RailroadInk.java: 241-248 using random class to create 4 random number and fixed in into 0-5 round. it's good.
+5. RailroadInk.java: 241-248 code is brief and readable with no other useless code.
